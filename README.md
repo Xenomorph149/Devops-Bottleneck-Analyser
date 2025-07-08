@@ -16,4 +16,4 @@ This project analyzes development and deployment metrics to detect productivity 
 ---
 
 ## 📁 Project Structure
-
+<pre> Devops-Bottleneck-Analyser/ ├── <b>main.py</b> # Main Python script to analyze and visualize metrics ├── <b>requirements.txt</b> # Required Python packages ├── <b>README.md</b> # Project documentation and usage guide ├── <b>.gitignore</b> # Files/folders to be ignored by Git └── <b>data/</b> # Folder for input datasets └── <b>devops_metrics.xlsx</b> # Sample Excel dataset with DevOps metrics </pre>
